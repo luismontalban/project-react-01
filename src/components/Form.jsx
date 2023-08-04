@@ -82,7 +82,7 @@ export const Form = ({ pacientes, setPacientes, paciente, setPaciente }) => {
         </h2>
 
         <p className='text-lg mt-5 text-center mb-10'>
-          Añade pacientes y {''}
+          Añade pacientes & {''}
           <span className='text-indigo-600 font-bold'>Administralos</span>
         </p>
 
